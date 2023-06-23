@@ -1,3 +1,3 @@
 # Golang Addressable Library
 
-Make your structs 
+Make your structs addressable
